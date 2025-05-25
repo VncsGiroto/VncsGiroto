@@ -1,5 +1,3 @@
-Claro, Vinícius! Vamos criar um README personalizado para o seu perfil do GitHub. Com base nas informações disponíveis no seu perfil [VncsGiroto](https://github.com/VncsGiroto), aqui está um modelo que você pode adaptar conforme suas preferências:
-
 ---
 
 # 👋 Olá! Eu sou o Vinícius Giroto
@@ -56,13 +54,3 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 ## 🐍 Animação de Contribuições
 
 ![Snake animation](https://github.com/VncsGiroto/VncsGiroto/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 💡 Dicas Adicionais
-
-* Para adicionar ícones de tecnologias, você pode utilizar o [Devicon](https://devicon.dev/).
-* Para gerar estatísticas do GitHub, confira o [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
-* Para criar animações como a da cobrinha, utilize o [GitHub Snake](https://github.com/Platane/snk).
-
-Se precisar de ajuda para personalizar ainda mais seu README ou tiver outras dúvidas, estou à disposição!

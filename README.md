@@ -2,7 +2,7 @@
 
 # 👋 Olá! Eu sou o Vinícius Giroto
 
-💻 Desenvolvedor Full Stack e entusiasta na criação de jogos com Unity.
+💻 Desenvolvedor Full Stack.
 
 📍 Localizado em Itu, São Paulo, Brasil.
 
@@ -14,7 +14,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Tenho experiência 
 
 * Desenvolvimento de aplicações web com **JavaScript** e **React.js**.
 * Criação de sistemas backend utilizando **Java**.
-* Desenvolvimento de jogos com **Unity**.
 
 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
 
@@ -42,9 +41,6 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 

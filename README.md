@@ -29,16 +29,10 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub de Vinícius](https://github-readme-stats.vercel.app/api?username=VncsGiroto\&show_icons=true\&theme=radical)
-
----
-
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:seuemail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/viniciusgiroto/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vncsgiroto@gmail.com)
 
 ---
 
@@ -50,7 +44,3 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 * [SimpleInventory](https://github.com/VncsGiroto/SimpleInventory): Sistema básico de controle de inventário.
 
 ---
-
-## 🐍 Animação de Contribuições
-
-![Snake animation](https://github.com/VncsGiroto/VncsGiroto/blob/output/github-contribution-grid-snake.svg)

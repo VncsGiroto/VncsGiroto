@@ -46,7 +46,7 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/viniciusgiroto/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/viniciusgiroto/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vncsgiroto@gmail.com)
 
 ---

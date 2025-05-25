@@ -53,7 +53,7 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 
 ## 💻 Projetos em Destaque
 
-* [VNCS-Store](https://github.com/VncsGiroto/VNCS-Store): Loja Front-end desenvolvida com JavaScript.
+* [VNCS-Store]([https://github.com/VncsGiroto/VNCS-Store](https://vncsgiroto.github.io/VNCS-Store/)): Loja Front-end desenvolvida com JavaScript.
 * [E-commerce-React-JS](https://github.com/VncsGiroto/E-commerce-React-JS): Projeto de e-commerce utilizando React.js.
 * [BankAccount-in-Java](https://github.com/VncsGiroto/BankAccount-in-Java): Sistema bancário simples para aprendizado de Java.
 * [SimpleInventory](https://github.com/VncsGiroto/SimpleInventory): Sistema básico de controle de inventário.

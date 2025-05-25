@@ -36,7 +36,7 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 
 ---
 
-## 🎮 Projetos em Destaque
+## 💻 Projetos em Destaque
 
 * [VNCS-Store](https://github.com/VncsGiroto/VNCS-Store): Loja Front-end desenvolvida com JavaScript.
 * [E-commerce-React-JS](https://github.com/VncsGiroto/E-commerce-React-JS): Projeto de e-commerce utilizando React.js.

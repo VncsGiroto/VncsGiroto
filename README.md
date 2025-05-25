@@ -2,7 +2,7 @@
 
 # 👋 Olá! Eu sou o Vinícius Giroto
 
-🎮 Desenvolvedor Full Stack e entusiasta na criação de jogos com Unity.
+💻 Desenvolvedor Full Stack e entusiasta na criação de jogos com Unity.
 
 📍 Localizado em Itu, São Paulo, Brasil.
 

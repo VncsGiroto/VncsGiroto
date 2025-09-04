@@ -8,14 +8,10 @@
 
 ---
 
-## 🚀 Sobre Mim
-
-Sou apaixonado por tecnologia e desenvolvimento de software. Tenho experiência em:
+## 🚀 Habilidades
 
 * Desenvolvimento de aplicações web com **JavaScript**, **HTML**, **CSS** e **React.js**.
 * Criação de sistemas backend utilizando **Java** e **JavaScript**.
-
-Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
 
 ---
 
